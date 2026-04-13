@@ -6,7 +6,7 @@ This repository contains sanitized extractions from a proprietary production app
 ## Why I shared this code:
 I am sharing these specific modules to demonstrate non-trivial logic in both React frontend architecture and serverless microservice orchestration.
 
-Note: Proprietary business logic, AI system prompts, and configuration secrets have been safely removed to protect my client's intellectual property.
+Note: Proprietary business logic, system prompts, and configuration secrets have been safely removed to protect intellectual property.
 
 ## 1. React Frontend Architecture (TipTapEditor.tsx)
 - Demonstrates advanced React state management and custom hook implementation.
